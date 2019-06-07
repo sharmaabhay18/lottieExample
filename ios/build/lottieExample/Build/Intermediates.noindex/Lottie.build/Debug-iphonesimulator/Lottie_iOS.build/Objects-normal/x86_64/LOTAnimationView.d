@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView.m \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Intermediates.noindex/Lottie.build/Debug-iphonesimulator/Lottie_iOS.build/module.modulemap \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView_Compat.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTKeypath.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTValueDelegate.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/MacCompatability/LOTPlatformCompat.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTModels.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTKeyframe.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTBezierData.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTLayer.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTMask.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeCircle.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeFill.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeGroup.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapePath.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeRectangle.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTLayerGroup.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTAsset.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeGradientFill.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Extensions/LOTHelpers.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Extensions/UIColor+Expanded.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Extensions/CGGeometry+LOTAdditions.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Extensions/LOTBezierPath.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView_Internal.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationCache.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTAssetGroup.h

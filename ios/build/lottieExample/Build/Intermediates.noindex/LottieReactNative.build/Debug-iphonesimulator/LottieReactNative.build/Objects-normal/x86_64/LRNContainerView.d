@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNContainerView.m \
+  /Users/abhaysharma/Work/mobx/lottieExample/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNContainerView.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/Lottie.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationTransitionController.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimatedSwitch.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimatedControl.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTCacheProvider.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationView.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationView_Compat.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTComposition.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTKeypath.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTValueDelegate.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTAnimationCache.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTBlockCallback.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTInterpolatorCallback.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/Lottie/LOTValueCallback.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/abhaysharma/Work/mobx/lottieExample/ios/build/lottieExample/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
